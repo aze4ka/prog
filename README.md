@@ -59,5 +59,7 @@ int main()
   }
 }
 
+скриншот:
+file:///home/user/Desktop/students/601-41/abdullina/prog/lab1/pics)/lab1.png
 
 
